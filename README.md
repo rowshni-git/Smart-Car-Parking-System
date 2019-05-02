@@ -1,6 +1,6 @@
 # Smart-Parking-System
 
-The proposed system includes the following features:
+Features:
  Auto gate opening,
  Auto detection of car presence,
  Detection of whether parking lot empty or occupied,
