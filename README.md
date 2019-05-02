@@ -1,4 +1,4 @@
-# Smart-Parking-System
+# Smart-Car-Parking-System
 
 Features:
  Auto gate opening,
