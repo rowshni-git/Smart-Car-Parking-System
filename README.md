@@ -10,6 +10,6 @@ Features:
  #
  Future Scope: Payment calculation through Hour count, Bar code or QR scaning system and Auto payment system.
  #
- Youtube link: https://www.youtube.com/watch?v=LjW0Urym14o&t=6s
+ YouTube link: https://www.youtube.com/watch?v=LjW0Urym14o&t=6s
  
  
